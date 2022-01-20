@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Blockchain Development**.
+- 🔭 I’m currently working on **Android Development**.
 
 - 🌱 I’m currently learning **Java Script**.
 
