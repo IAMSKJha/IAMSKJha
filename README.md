@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with **Open Source**.
 
-- 💬 Ask me about **HTML, CSS, C, C++, android and other tech oriented stuff.**
+- 💬 Ask me about **HTML, CSS, C, C++ and other tech oriented stuff.**
 
 - 📫 Reach me on <b><a href="https://twitter.com/shivendu_kr_jha" target="blank">Twitter</a></b> 
 
