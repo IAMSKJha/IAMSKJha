@@ -3,7 +3,7 @@
 
 
 <!--
-**IAMSKJha/IAMSKJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**Shivendu-Kumar/IAMSKJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 
 <p align ="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=IAMSKJha&show_icons=true&locale=en" alt="shivendukumar" width="48%"/>
-   <img src ="https://github-readme-streak-stats.herokuapp.com?user=IAMSKJha" alt="shivendukumar" width="48%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Shivendu-Kumar&show_icons=true&locale=en" alt="shivendukumar" width="48%"/>
+   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shivendu-Kumar" alt="shivendukumar" width="48%"/>
