@@ -4,7 +4,7 @@
 
 <!--
 **Shivendu-Kumar/IAMSKJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+<p align="left"> <a href="https://twitter.com/shivendu_kr_jha" target="blank"><img src="https://img.shields.io/twitter/follow/shivendu_kr_jha?logo=twitter&style=for-the-badge" alt="shivendu_kr_jha" /></a> </p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Android Development**.
