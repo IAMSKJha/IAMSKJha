@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Android Development**.
 
-- 🌱 I’m currently learning **Java Script**.
+- 🌱 I’m currently learning **Kotlin**.
 
 - 👯 I’m looking to collaborate on **GitHub**.
 
