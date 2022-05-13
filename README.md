@@ -7,13 +7,9 @@
 <p align="left"> <a href="https://twitter.com/shivendu_kr_jha" target="blank"><img src="https://img.shields.io/twitter/follow/shivendu_kr_jha?logo=twitter&style=for-the-badge" alt="shivendu_kr_jha" /></a> </p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Android Development**.
-
-- 🌱 I’m currently learning **Kotlin**.
+- 🔭 I’m currently working on **Android Development** with **Kotlin**.
 
 - 👯 I’m looking to collaborate on **GitHub**.
-
-- 🤔 I’m looking for help with **Open Source**.
 
 - 💬 Ask me about **HTML, CSS, C, C++ and other tech related stuff.**
 
