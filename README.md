@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML, CSS, C, C++ and other tech related stuff.**
 
-- 📫 Reach me on <b><a href="https://twitter.com/shivendu_kr_jha" target="blank">Twitter</a></b> 
-
-- 📄 Know about my experiences in <b><a href="https://www.linkedin.com/in/shivendu-kumar-731a46214/" target="blank">LinkedIn</a></b>
-
 - ⚡ Fun fact : **During my primary school days the most weakest subject of mine was Computer Science, but now here I am.**
 
 <h3 align="left">Connect with me</h3>
