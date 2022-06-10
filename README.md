@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi , I'm Shivendu Kumar</h1>-->
- <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm Shivendu Kumar</h1>
+ <h1 align="center">Hi , I'm Shivendu Kumar</h1>
 
 
 <!--
