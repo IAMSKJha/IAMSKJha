@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <p align="left"> 
 
 <a href="https://www.geeksforgeeks.org/top-10-reasons-to-learn-c-plus-plus/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/> </a>
-   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="43" height="43"/> </a>  </a> <a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/markdown.svg" alt="MarkDown" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src= "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="40" height="40"/> </a>
+   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="40" height="40"/> </a> 
+ <a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/markdown.svg" alt="MarkDown" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src= "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="40" height="40"/> </a>
 
 
 <p align ="center">
